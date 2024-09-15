@@ -51,7 +51,7 @@ Make changes and deploy your personalized portfolio using services like Netlify,
 ## 🤝 Connect with Me
 Feel free to reach out if you have any questions or collaboration opportunities!
 
-Email: vigneshchandrasekaran9@#gmail.com
-LinkedIn: [vignesh-chandrasekaran](https://www.linkedin.com/in/vignesh-chandrasekaran-962714226/)
-GitHub: [Vikky-cse](https://github.com/Vikky-cse)
+- Email: vigneshchandrasekaran9@#gmail.com
+- LinkedIn: [vignesh-chandrasekaran](https://www.linkedin.com/in/vignesh-chandrasekaran-962714226/)
+- GitHub: [Vikky-cse](https://github.com/Vikky-cse)
 
